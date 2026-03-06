@@ -1,5 +1,5 @@
 {
-  "api_url": "https://moutogami.com/bluetalk_backend/api",
-  "status": "maintenance",
+  "api_url": "https://api-bluetalk.my-bini.my.id/api",
+  "status": "online",
   "maintenance_message": "BlueTalk melakukan migrasi ke server terbarunya. Ga akan lama kok :)"
 }
