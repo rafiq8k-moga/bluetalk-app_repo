@@ -1,5 +1,5 @@
 {
   "api_url": "https://api-bluetalk.my-bini.my.id/api",
-  "status": "online",
+  "status": "maintenance",
   "maintenance_message": "BlueTalk melakukan migrasi ke server terbarunya. Ga akan lama kok :)"
 }
