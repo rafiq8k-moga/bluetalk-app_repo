@@ -1,5 +1,5 @@
 {
   "api_url": "https://moutogami.com/bluetalk_backend/api",
-  "status": "online",
-  "maintenance_message": "BlueTalk sedang dalam pemeliharaan sistem. Silakan cek kembali nanti ya, Sensei!"
+  "status": "maintenance",
+  "maintenance_message": "BlueTalk melakukan migrasi ke server terbarunya. Ga akan lama kok :)"
 }
