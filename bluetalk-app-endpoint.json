@@ -1,6 +1,6 @@
 {
   "api_url": "https://api-bluetalk.my-bini.my.id/api",
   "status": "maintenance",
-  "maintenance_message": "BlueTalk melakukan maintenance darurat. tunggu sebentar lagi ya... :)",
+  "maintenance_message": "BlueTalk melakukan maintenance berupa Update Versi ke 0.6.0. tunggu sebentar lagi ya... :)",
   "version": "0.6.0"
 }
