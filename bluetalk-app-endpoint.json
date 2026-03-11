@@ -1,6 +1,6 @@
 {
   "api_url": "https://api-bluetalk.my-bini.my.id/api",
   "status": "maintenance",
-  "maintenance_message": "BlueTalk melakukan maintenance berupa Update pada koneksi ke sistem dan perbaikan pada AI system. Estimasi selesai: 11 maret 2026 pada jam 17:00 WIB. Tunggu sebentar lagi ya... :)",
+  "maintenance_message": "BlueTalk melakukan maintenance berupa Update pada koneksi ke sistem dan perbaikan pada AI system. Estimasi selesai: 11 maret 2026 pada jam 17:00 WIB. Tunggu sebentar lagi ya... :), nanti kalau sudah maintenance tampi masih tampil di aplikasi, clear cachenya",
   "version": "0.6.0"
 }
